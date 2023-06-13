@@ -11,4 +11,4 @@ if __name__ == "__main__":
     sniper.setGuild({"id": config["guild_id"], "admin_token": config["admin_token"]})
     sniper.setVanities(config["vanities"])
     sniper.setWebhook({"url": config["webhook_url"]})
-    sniper.run(1)
+    sniper.run()
