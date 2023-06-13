@@ -170,3 +170,6 @@ proxies.txt
 
 #test
 test.py
+
+# risk
+config.js
